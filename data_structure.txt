@@ -1,0 +1,25 @@
+Data Structures
+way of organizing data in such a manner to access it efficiencly
+
+
+selection sort 0 element ko tamam sey check krwata hai jese pehli dafa pehly index par
+minimun value ayegi phr dusry index par dusri minimum phr 3sry index pe...
+#big value last main aati jayegi bubble main
+
+LINEAR
+1- Array
+2- List
+3- Linked List(singly doubly  circular, doubly circular)
+4- Stack--stack ka ek end khula huta hai lekin queue k dono ends khuly hoty
+[LIFO(last in first out) Lifo mean we can get last or latest value
+push(append), pop, peek(top), isEmpty]
+5- Queue(FIFO) Fifo mean get first enter value --
+First element of queue is FRONT and last is REAR
+QUEUE(enqueue,dequeue,front,rear,isEmpty)
+
+NON LINEAR
+Tree
+Graph
+infinix:operand, operator, operand
+prefix:operator, operand, operand
+postfix:operand, operand, operator

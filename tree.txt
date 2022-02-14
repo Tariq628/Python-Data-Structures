@@ -1,0 +1,20 @@
+-tree grows from top to bottom
+Parent - imediate predecessor
+leaf nodes - nodes having no child
+non-leaf nodes- internal nodes
+path- edge to nodes / source to destination
+ancestor - path from root to node all previous nodes
+height - node to leaf
+degree- # of 
+
+binary tree
+at most 2 child nodes
+at least 0 nodes
+
+
+binary search tree
+at most 2 child nodes
+at least 0 nodes
+
+left node value should be less than root
+right node value should be greater than root
